@@ -1,0 +1,16 @@
+{
+  "name": "bookmark-manager",
+  "version": "1.0.0",
+  "description": "A clean bookmark manager with Node.js backend and React frontend",
+  "scripts": {
+    "dev": "concurrently \"npm run backend\" \"npm run frontend\"",
+    "backend": "cd backend && npm start",
+    "frontend": "cd frontend && npm run dev"
+  },
+  "keywords": ["bookmark", "manager", "react", "express"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
