@@ -366,7 +366,7 @@ npm test
 
 ## Development Information
 
-**AI Tools Used:** Google Gemini AI Assistant (Antigravity)
+**AI Tools Used:** Google Gemini AI Assistant 
 
 **Time Spent:** ~30 minutes
 
@@ -395,5 +395,6 @@ npm test
 ## License
 
 MIT
+
 
 
